@@ -1,0 +1,7 @@
+pythonenv/*
+pythonenv*
+env
+.env
+.DS_store
+__pycache__
+main.log
